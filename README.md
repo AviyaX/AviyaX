@@ -27,9 +27,11 @@ The greatest achievement comes from accomplishing what others believed you could
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://gitlab.com/v.g.a.induwara"><img src="https://img.shields.io/badge/-@v.g.a.induwara-1769FF?style=flat&logo=Gitlab&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aviyax/"><img src="https://img.shields.io/badge/-Avishka%20Induwara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:v.g.a.induwara@gmail.com"><img src="https://img.shields.io/badge/-v.g.a.induwara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+### 🤝🏻 &nbsp;Connect with Me
+
+[![Gmail](/images/gm.png)](mailto:v.g.a.induwara@gmail.com)
+[![LinkedIn](/images/li.png)](www.linkedin.com/in/aviyax)
+[![GitLab](/images/gl.png)](https://gitlab.com/v.g.a.induwara)
+
+
 
