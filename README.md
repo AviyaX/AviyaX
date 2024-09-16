@@ -1,4 +1,6 @@
-![Avishka Induwara](/images/Profile.png)
+## Avishka Induwara
+
+Hi, my name is Avishka Induwara. I’m involved in web development, test automation, mobile application development, and more.
 
 <h4 align="right">Visitor's count :eyes:</h4>
 <img alt="Avishka :: Visitor's Count" src="https://profile-counter.glitch.me/{Avishka}/count.svg" align="right"/>
