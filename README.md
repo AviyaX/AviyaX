@@ -1,4 +1,4 @@
-![Avishka Induwara](assets/img/cover.png)
+![Avishka Induwara](/images/Profile.png)
 
 <h4 align="right">Visitor's count :eyes:</h4>
 <img alt="Avishka :: Visitor's Count" src="https://profile-counter.glitch.me/{Avishka}/count.svg" align="right"/>
@@ -24,8 +24,6 @@ The greatest achievement comes from accomplishing what others believed you could
   <img src="https://github-profile-trophy.vercel.app/?username=AviyaX&theme=juicyfresh&title=Organizations,PullRequest,Issues,Followers,Commit,Repositories" />
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
 
 ### 🤝🏻 &nbsp;Connect with Me
 
